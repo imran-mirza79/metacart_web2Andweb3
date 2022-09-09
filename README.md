@@ -47,3 +47,5 @@ among creators.
 with our proposed Dynamic Pricing Model.
 Enabling micro-tipping feature to allow users to support their favorite 
 content creators.
+
+![MetaCartSystemDesign (1)](https://user-images.githubusercontent.com/63927839/189281537-2a4a9c13-061d-4ad0-925a-c65801d2b45e.png)
